@@ -12,15 +12,15 @@ The project includes a generation chain for producing MCQs and a review chain th
 
 **⚙️ Key Features**
 
-*Automatic MCQ generation using LLMs
+* Automatic MCQ generation using LLMs
 
-*JSON-structured output for easy integration
+* JSON-structured output for easy integration
 
-*Review chain for correcting invalid or incomplete responses
+* Review chain for correcting invalid or incomplete responses
 
-*Supports long text input and noisy data
+* Supports long text input and noisy data
 
-*Robust error handling and logging
+* Robust error handling and logging
 
 **🚧 Challenges Faced**
 
